@@ -1,6 +1,5 @@
 
-![GitHub Header](https://user-images.githubusercontent.com/90475328/153758869-3f8e2f7b-cd2d-4ab3-b44f-984119e04e14.png)
-
+![Hi, Szia, Hallo! I am Seihee Jeong](https://user-images.githubusercontent.com/90475328/153762183-f1ebc8eb-b5f6-4df8-9cc7-4d72abc3ebdb.png)
 
 <!--
 **jseihee/jseihee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
