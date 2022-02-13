@@ -3,6 +3,8 @@
 <!--
 **jseihee/jseihee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://github.com/jseihee/jseihee/blob/a34ca372537742182e6562b0a10d7d89a200d9b6/header.png
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
