@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 
 <!-- Media links -->
 ## 🤝 Connect with me!
+<a href="https://www.linkedin.com/in/seihee-jeong-236136221/"><img align=”left” src="linkedin_icon.png" alt="icon | LinkedIn" width="67"/></a>
+<a href="https://www.instagram.com/nrnflowers/"><img align=”left” src="instagram_icon.png" alt="icon | Instagram" width="67"/></a>
+<a href="https://www.twitter.com/nrnflowers/"><img align=”left” src="twitter_icon.png" alt="icon | Twitter" width="67"/></a>
+
