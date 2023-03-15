@@ -1,9 +1,5 @@
-
-
 <!--
 **jseihee/jseihee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 Here are some ideas to get you started:
 
@@ -20,12 +16,30 @@ Here are some ideas to get you started:
 <!-- Main Banner -->
 <p align="center"><img src="github_banner.png" width="1000" height="500" alt="banner"/></p>
 
+<!-- Introduction -->
+## 🌼 About me 
+Hi, I'm Seihee 👋 I'm a data science student with a passion for machine learning + data analysis + UX design. <br>
+I love working with data - cleaning, exploring, analysing - to create stories with data to deliver data-driven insights to both technical & non-technical audiences! <br>
+Aligning with my design skills, I'm also interested in GUI development, with a particular focus on designing an accessible GUI to reach a diverse user audience.
+<br>
+
+### 👩‍💻 I'm currently working on..
+* Developing a machine learning modeling with NRL(nucleosome repeat length) data for chronological age & breast cancer classification
+* Improving & adding features to my Grade analysis ToolBox project GUI
+* Beginning to contribute on open-source projects on GitHub
+* My blog
+
+### 📝 I'm currently learning..
+* Deep learning (Keras - TensorFlow)
+* JavaScript
+<br><br>
+
+
 <!-- Badges -->
-## 👩‍💻 Technical skills
+## 💻 Technical skills
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <br><br>
 
