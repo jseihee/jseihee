@@ -17,5 +17,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="github_banner.png" width="1000" height="500" alt="banner"/>
+<!-- Main Banner -->
+<p align="center"><img src="github_banner.png" width="1000" height="500" alt="banner"/></p>
 
+<!-- Badges -->
+## 👩‍💻 Technical skills
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<br><br>
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jseihee)](https://github.com/jseihee)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jseihee&layout=compact)](https://github.com/jseihee)
+<br><br>
+
+<!-- Media links -->
+## 🤝 Connect with me!
