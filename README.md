@@ -21,17 +21,19 @@ Here are some ideas to get you started:
 Hi, I'm Seihee 👋 I'm a data science student with a passion for machine learning + data analysis + UX design. <br>
 I love working with data - cleaning, exploring, analysing - to create stories with data to deliver data-driven insights to both technical & non-technical audiences! <br>
 Aligning with my design skills, I'm also interested in GUI development, with a particular focus on designing an accessible GUI to reach a diverse user audience.
+I am currently working at Teif lab as a Machine learning focused research assistant. 
 <br>
 
 ### 👩‍💻 I'm currently working on..
-* Developing a machine learning modeling with NRL(nucleosome repeat length) data for chronological age & breast cancer classification
+* Becoming a published author! (Manuscript is currently being peer-reviewed..🤞)
+* Developing a machine learning modeling with cfDNA(cell-free DNA) data for the BRC project
 * Improving & adding features to my Grade analysis ToolBox project GUI
 * Beginning to contribute on open-source projects on GitHub
-* My blog
+* My blog 
 
 ### 📝 I'm currently learning..
 * Deep learning (Keras - TensorFlow)
-* JavaScript
+* Advanced machine learning techniques
 <br><br>
 
 
